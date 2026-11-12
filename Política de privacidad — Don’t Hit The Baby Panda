@@ -1,32 +1,48 @@
-Última actualización: [09/10/2026]
+Política de privacidad — Don’t Hit The Baby Panda
 
-Esta política explica cómo se trata la información al utilizar Don’t Hit The Baby Panda, desarrollado por LDL Games / Luciano De Liberato ("programador”).
+Última actualización: 12/11/2026
 
-Información que recopila la aplicación
-El juego no requiere crear una cuenta y el desarrollador no solicita directamente el nombre, correo electrónico, ubicación precisa, contactos, fotografías ni grabaciones de voz del jugador.
+Esta política explica cómo se trata la información al utilizar Don’t Hit The Baby Panda (en adelante, "el juego"), desarrollado por LDL Games / Luciano De Liberato ("el desarrollador"). El juego está pensado para todo público, incluidos niños, y cumple con la Política de Familias de Google Play.
 
-La aplicación muestra un banner publicitario mediante Google AdMob. Google y sus proveedores de publicidad pueden recopilar o recibir información del dispositivo y del uso de los anuncios para ofrecerlos, limitar su frecuencia, medir su rendimiento, prevenir fraude y, cuando corresponda, personalizarlos. Esto puede incluir identificadores publicitarios, dirección IP, información general del dispositivo, interacciones con anuncios y datos de diagnóstico. La información que se recopile depende de la configuración del dispositivo, las opciones de consentimiento y la configuración de publicidad aplicable.
+1. Información que recopila el desarrollador
+El desarrollador no recopila información personal. El juego:
+- No requiere crear una cuenta ni iniciar sesión.
+- No solicita nombre, correo electrónico, teléfono, ubicación, contactos, fotos, cámara ni micrófono.
+- No incluye chat, compras dentro de la aplicación ni enlaces a redes sociales.
 
-El desarrollador no utiliza esa información para identificar directamente al jugador. El banner se muestra debajo del juego y no está destinado a interferir con la jugabilidad.
+2. Datos guardados en el dispositivo
+El juego guarda localmente, solo en tu dispositivo, tu récord y tus estadísticas de juego (por ejemplo, partidas jugadas y mejores tiempos). Estos datos no se envían al desarrollador ni a terceros y se eliminan al desinstalar el juego o borrar sus datos desde los ajustes de Android.
 
-Publicidad y terceros
-Los anuncios son proporcionados por Google AdMob. Google y sus socios pueden tratar datos de acuerdo con sus propias políticas y condiciones. Para obtener más información, consulta:
+3. Botón "Compartir"
+Si pulsas "Compartir", el juego abre el menú para compartir de Android con un texto de tu resultado. Tú eliges con qué aplicación compartirlo; el juego no envía nada por sí mismo.
 
-Cómo usa Google la información de sitios o aplicaciones que utilizan sus servicios
-Política de privacidad de Google
-La aplicación no vende directamente información personal. El tratamiento de datos por Google y sus proveedores se rige también por las políticas de esos terceros.
+4. Publicidad (Google AdMob)
+El juego muestra un banner publicitario mediante Google AdMob, un SDK de anuncios certificado por Google para el Programa de Familias. Todas las solicitudes de anuncios se configuran así:
+- Marcadas como dirigidas a niños (tagForChildDirectedTreatment), conforme a la ley COPPA de EE. UU.
+- Marcadas para usuarios menores de la edad de consentimiento (tagForUnderAgeOfConsent), conforme al RGPD en el Espacio Económico Europeo, el Reino Unido y Suiza.
+- Con clasificación máxima de contenido "G" (público general), apta para todas las edades.
+- Solo anuncios no personalizados: no se muestran anuncios basados en intereses ni se hace remarketing.
+Además, en la cuenta de AdMob están bloqueadas las categorías sensibles, incluidos los juegos de azar y apuestas, los juegos de casino sociales y los sorteos o concursos, aunque no impliquen dinero.
 
-Privacidad de niños y público familiar
-El juego está pensado para un público general. La publicidad y el tratamiento de datos deben configurarse de acuerdo con la edad y el público declarado para la aplicación en Google Play, y con las leyes y políticas aplicables. Si Google Play clasifica la aplicación como dirigida a niños o a familias, se aplicarán los requisitos correspondientes para contenido y publicidad dirigidos a ese público.
+Para mostrar los anuncios, medir sus impresiones y prevenir fraude, Google puede recibir información técnica limitada, como la dirección IP, el tipo de dispositivo, la versión del sistema operativo y las interacciones con el anuncio. Con la configuración para niños, Google limita ese tratamiento y no usa la información para personalizar anuncios. Más información:
+- Cómo usa Google la información de las aplicaciones que usan sus servicios: https://policies.google.com/technologies/partner-sites
+- Política de privacidad de Google: https://policies.google.com/privacy
 
-Conservación y seguridad
-El desarrollador no mantiene una base de datos propia de cuentas de jugadores. Google y sus proveedores pueden conservar información conforme a sus propias políticas y plazos. Se toman medidas razonables para proteger la aplicación, pero ningún sistema puede garantizar seguridad absoluta.
+El desarrollador no vende ni comparte información personal y no tiene acceso a datos que permitan identificar al jugador.
 
-Opciones del usuario
-Puedes revisar o restablecer el identificador de publicidad y administrar las opciones de privacidad disponibles en la configuración de tu dispositivo Android. También puedes consultar los controles de privacidad y publicidad de Google en https://myadcenter.google.com/.
+5. Niños
+El juego es apto para niños. El desarrollador no recopila a sabiendas información personal de niños. Si eres padre, madre o tutor y crees que se ha recopilado información de tu hijo o hija, escríbenos al correo de contacto y la eliminaremos.
 
-Cambios en esta política
-Esta política puede actualizarse si cambian el juego, sus servicios o los requisitos legales. La versión vigente se publicará en esta misma página e indicará su fecha de actualización.
+6. Conservación y seguridad
+El desarrollador no tiene servidores ni bases de datos con información de jugadores. Google puede conservar los datos técnicos de publicidad según sus propias políticas. Se toman medidas razonables para proteger el juego, pero ningún sistema puede garantizar una seguridad absoluta.
 
-Contacto
-Para consultas sobre privacidad, escribe a: lucianodeliberato.games@gmail.com
+7. Tus opciones
+- Puedes borrar los datos guardados del juego en Ajustes de Android > Aplicaciones > Don’t Hit The Baby Panda > Almacenamiento > Borrar datos, o desinstalando el juego.
+- Puedes eliminar o restablecer el ID de publicidad en los ajustes de Google de tu dispositivo.
+- Puedes revisar tus controles de anuncios de Google en https://myadcenter.google.com/
+
+8. Cambios en esta política
+Esta política puede actualizarse si cambian el juego, sus servicios o los requisitos legales. La versión vigente se publicará en esta misma página con su fecha de actualización.
+
+9. Contacto
+Para consultas sobre privacidad: lucianodeliberato.games@gmail.com
